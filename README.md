@@ -29,3 +29,12 @@ Output of the example:
       @ @     @ @     @ @     @ @  
      @   @   @   @   @   @   @   @ 
     @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
+
+
+## whereami.py
+
+"WHERE AM I D:" is a small game I did in 0 hours for the [0h Game Jam](http://0hgame.eu/) 2012. Made in Python with the help of the lovely [libtcod](http://doryen.eptalys.net/libtcod/).
+
+Move yourself with the arrow keys. When you think you know where you are point the cursor and press spacebar (clicking was throwing me a Segmentation fault error and I did not have time to fix it). You can exit at (almost) anytime with the escape key.
+
+You can get a ready to play Linux version [here](https://github.com/downloads/Alberdi/assorted/whereami-LINUX.tar.gz).
